@@ -74,6 +74,10 @@ The library exports two properties:
 Code and packaging development is at the [did-context][] project. The contexts
 themselves are developed in the [did-spec][] project.
 
+Contexts in this package are updated manually from the [did-spec][] contexts.
+Please file an issue if this package is not synced with [did-spec][] changes in
+a timely manner.
+
 Small note: If editing the Readme, please conform to the
 [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
