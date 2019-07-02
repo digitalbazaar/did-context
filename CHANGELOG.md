@@ -1,6 +1,6 @@
 # did-context ChangeLog
 
-## 2.0.0 - TBD
+## 2.0.0 - 2019-07-02
 
 ### Added
 - Add terms:
