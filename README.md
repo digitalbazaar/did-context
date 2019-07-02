@@ -1,7 +1,7 @@
 # DID Context _(did-context)_
 
 [![NPM Version](https://img.shields.io/npm/v/did-context.svg?style=flat-square)](https://npm.im/did-context)
-[![Build Status](https://travis-ci.org/digitalbazaar/did-context.png?branch=master)](https://travis-ci.org/digitalbazaar/did-context)
+<!--[![Build Status](https://travis-ci.org/digitalbazaar/did-context.png?branch=master)](https://travis-ci.org/digitalbazaar/did-context)-->
 
 > A [DID][did-spec] (Decentralized Identifier) context library for JavaScript
 
