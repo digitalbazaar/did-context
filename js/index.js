@@ -16,4 +16,4 @@ function _read(_path) {
 
 contexts.set(
   constants.DID_CONTEXT_URL,
-  _read('../contexts/did-v0.11.jsonld'));
+  _read('../contexts/did-v1.jsonld'));

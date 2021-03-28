@@ -54,7 +54,7 @@ const obj = {
 };
 
 // get context data for a specific context
-const data = didContext.contexts.get('https://w3id.org/did/v0.11');
+const data = didContext.contexts.get('https://www.w3.org/ns/did/v1');
 // ...
 ```
 
@@ -93,7 +93,7 @@ Digital Bazaar: support@digitalbazaar.com
 - See the [LICENSE](./LICENSE.md) file for details.
 
 [did-context]: https://github.com/digitalbazaar/did-context
-[did-spec]: https://github.com/w3c-ccg/did-spec
+[did-spec]: https://www.w3.org/TR/did-core/
 [NPM]: https://www.npmjs.com/
 [Node.js]: https://nodejs.org/
 [webpack]: https://webpack.js.org/
