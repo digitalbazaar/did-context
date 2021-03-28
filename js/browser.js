@@ -5,4 +5,4 @@ const constants = exports.constants = require('./constants.js');
 
 contexts.set(
   constants.DID_CONTEXT_URL,
-  require('../contexts/did-v0.11.jsonld'));
+  require('../contexts/did-v1.jsonld'));
