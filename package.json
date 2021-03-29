@@ -34,7 +34,7 @@
     "webpack-cli": "^3.3.5"
   },
   "scripts": {
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "build": "webpack && rollup -c",
     "lint": "eslint *.js js"
   }
