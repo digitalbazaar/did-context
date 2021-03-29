@@ -1,5 +1,13 @@
 # did-context ChangeLog
 
+## 3.0.0 - 
+
+### Changed
+- **BREAKING**: Remove non-DID Core properties.
+- **BREAKING**: Enable term protection.
+- **BREAKING**: Change context url from `https://w3id.org/did/v0.11` to
+  `https://www.w3.org/ns/did/v1`.
+
 ## 2.0.0 - 2019-07-02
 
 ### Added
