@@ -1,6 +1,6 @@
 # did-context ChangeLog
 
-## 3.0.0 - 
+## 3.0.0 - 2021-03-30
 
 ### Changed
 - **BREAKING**: Remove non-DID Core properties.
