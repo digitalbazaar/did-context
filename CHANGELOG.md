@@ -1,6 +1,6 @@
 # did-context ChangeLog
 
-## 3.0.1 -
+## 3.0.1 - 2021-04-14
 
 ### Fixed
 - Remove `"@container": "@set"` properties from `alsoKnownAs` and `service`
