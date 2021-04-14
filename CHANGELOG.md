@@ -1,5 +1,11 @@
 # did-context ChangeLog
 
+## 3.0.1 -
+
+### Fixed
+- Remove `"@container": "@set"` properties from `alsoKnownAs` and `service`
+  terms, to match the DID Registries definition.
+
 ## 3.0.0 - 2021-03-30
 
 ### Changed
