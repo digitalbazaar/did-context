@@ -53,12 +53,6 @@ module.exports = function(config) {
     webpack: {
       devtool: 'inline-source-map',
       mode: 'development',
-      node: {
-        Buffer: false,
-        crypto: false,
-        setImmediate: false,
-        util: false
-      }
     }
   });
 };
