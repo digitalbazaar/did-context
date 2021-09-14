@@ -1,6 +1,6 @@
 {
   "name": "did-context",
-  "version": "3.1.1-0",
+  "version": "3.1.1",
   "description": "DID Context",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
