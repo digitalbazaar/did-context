@@ -12,5 +12,6 @@ module.exports = {
   contexts,
   DID_CONTEXT_URL,
   CONTEXT_URL,
+  CONTEXT_URL_V1: CONTEXT_URL,
   CONTEXT: context
 };

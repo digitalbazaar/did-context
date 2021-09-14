@@ -56,7 +56,7 @@ const obj = {
 };
 
 // get context data for a specific context
-const data = didContext.contexts.get('https://www.w3.org/ns/did/v1');
+const data = didContext.CONTEXT;
 // ...
 ```
 
