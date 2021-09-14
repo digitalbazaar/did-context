@@ -47,7 +47,7 @@ const didContext = require('did-context');
 // use URL in a JSON-LD context
 const obj = {
   "@context": [
-    didContext.constants.DID_CONTEXT_URL,
+    didContext.CONTEXT_URL_V1,
     // ...
   ],
   // ...
