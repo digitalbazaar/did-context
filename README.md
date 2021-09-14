@@ -42,6 +42,8 @@ npm install did-context
 ## Usage
 
 ```js
+import didContext from 'did-context';
+// or
 const didContext = require('did-context');
 
 // use URL in a JSON-LD context
