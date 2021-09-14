@@ -1,6 +1,6 @@
 # did-context ChangeLog
 
-## 3.1.0 -
+## 3.1.0 - 2021-09-14
 
 ### Changed
 - Refactor to use current context repo template (generate the `.jsonld` during
